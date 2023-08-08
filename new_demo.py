@@ -4,3 +4,4 @@ b=40
 print(a+b)
 print("add new 1st line")
 print(a*b)
+print("Devision",a/b)
